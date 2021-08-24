@@ -1,0 +1,10 @@
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\bin\Debug\Calculadora Berlanda.exe.config
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\bin\Debug\Calculadora Berlanda.exe
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\bin\Debug\Calculadora Berlanda.pdb
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora Berlanda.csproj.AssemblyReference.cache
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora_Berlanda.Form1.resources
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora_Berlanda.Properties.Resources.resources
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora Berlanda.csproj.GenerateResource.cache
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora Berlanda.csproj.CoreCompileInputs.cache
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora Berlanda.exe
+C:\Users\berla\Desktop\Calculadora\Calculadora Berlanda\obj\Debug\Calculadora Berlanda.pdb
